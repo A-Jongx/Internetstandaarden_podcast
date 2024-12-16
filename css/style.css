@@ -416,6 +416,16 @@ footer address a {
     font-weight: 600;
 }
 
+
+footer address a {
+    transition: color 0.5s;
+}
+
+footer address a:hover {
+    color: red;
+}
+
+
 footer p {
     font-family: "Raleway", sans-serif;
     font-weight: 600;
